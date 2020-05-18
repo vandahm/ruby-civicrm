@@ -152,4 +152,8 @@ module CiviCrm
   class SurveyRespondant < BaseResource
     entity :survey_respondant
   end
+  #mine
+  class Keyfob < BaseResource
+    entity :keyfob
+  end
 end
